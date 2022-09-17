@@ -1,7 +1,7 @@
 :root {
-	--web-view-ids: index_0,index,index_1;
-	--web-view-name: index;
-	--web-view-id: index;
+	--web-view-ids: index_0,index_small,index_1;
+	--web-view-name: index_small;
+	--web-view-id: index_small;
 	--web-scale-to-fit: false;
 	--web-scale-to-fit-type: default;
 	--web-enable-scale-up: true;
@@ -21,7 +21,7 @@
 	--web-is-overlay: false;
 }
 #index_0,
-#index,
+#index_small,
 #index_1 {
 	display: none;
 }
@@ -115,8 +115,8 @@
 		overflow: visible;
 		width: 1367px;
 		height: 768px;
-		left: 166px;
-		top: -284px;
+		left: 0px;
+		top: 0px;
 	}
 	#Services {
 		position: absolute;
@@ -4168,8 +4168,8 @@
 }
 @media (min-width: 0px) and (max-width: 1279px) {
 	.mediaViewInfo {
-		--web-view-name: index;
-		--web-view-id: index;
+		--web-view-name: index_small;
+		--web-view-id: index_small;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -4182,15 +4182,15 @@
 		box-sizing: border-box;
 		border: none;
 	}
-	#index {
+	#index_small {
 		position: absolute;
 		display: block;
 		width: 375px;
 		height: 4351px;
 		background-color: rgba(255,255,255,1);
 		overflow: hidden;
-		--web-view-name: index;
-		--web-view-id: index;
+		--web-view-name: index_small;
+		--web-view-id: index_small;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
