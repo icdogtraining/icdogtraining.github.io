@@ -14,7 +14,7 @@
 	--web-navigate-on-keypress: false;
 	--web-refresh-for-changes: true;
 	--web-add-image-compare: false;
-	--web-show-by-media-query: true;
+	--web-show-by-media-query: false;
 	--web-application: false;
 	--web-show-navigation-controls: false;
 	--web-enable-deep-linking: true;
