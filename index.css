@@ -1,7 +1,7 @@
 :root {
-	--web-view-ids: index_small,index_0,index_1,index_2;
-	--web-view-name: index_small;
-	--web-view-id: index_small;
+	--web-view-ids: index_3,index_0,index_1,index_2;
+	--web-view-name: index_3;
+	--web-view-id: index_3;
 	--web-scale-to-fit: false;
 	--web-scale-to-fit-type: default;
 	--web-enable-scale-up: true;
@@ -20,7 +20,7 @@
 	--web-enable-deep-linking: true;
 	--web-is-overlay: false;
 }
-#index_small,
+#index_3,
 #index_0,
 #index_1,
 #index_2 {
@@ -28,8 +28,8 @@
 }
 @media (min-width: 0px) and (max-width: 767px) {
 	.mediaViewInfo {
-		--web-view-name: index_small;
-		--web-view-id: index_small;
+		--web-view-name: index_3;
+		--web-view-id: index_3;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -41,15 +41,15 @@
 		box-sizing: border-box;
 		border: none;
 	}
-	#index_small {
+	#index_3 {
 		position: absolute;
 		display: block;
 		width: 375px;
 		height: 4021px;
 		background-color: rgba(247,242,234,1);
 		overflow: hidden;
-		--web-view-name: index_small;
-		--web-view-id: index_small;
+		--web-view-name: index_3;
+		--web-view-id: index_3;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
