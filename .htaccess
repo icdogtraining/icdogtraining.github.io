@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} !on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteRule ^.*$ https://%{HTTP_HOST}%{REQUEST_URI} [L,QSA,NE]
+</IfModule>
+
+<IfModule mod_headers.c>
+Header set Content-Security-Policy “upgrade-insecure-requests;”
+</IfModule>
