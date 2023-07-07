@@ -7,7 +7,6 @@
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
-		--web-show-by-media-query: true;
 		--web-enable-deep-linking: true;
 	}
 	* {
@@ -30,7 +29,6 @@
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
-		--web-show-by-media-query: true;
 		--web-enable-deep-linking: true;
 	}
 	#BBackground_th {
