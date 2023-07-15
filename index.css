@@ -2,8 +2,8 @@
 	--web-view-ids: index_3,index,index_1,index_2;
 	--web-view-name: index;
 	--web-view-id: index;
-	--web-scale-to-fit: false;
-	--web-scale-to-fit-type: default;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
 	--web-show-scale-controls: false;
@@ -30,6 +30,8 @@
 	.mediaViewInfo {
 		--web-view-name: index_3;
 		--web-view-id: index_3;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -51,6 +53,8 @@
 		overflow: hidden;
 		--web-view-name: index_3;
 		--web-view-id: index_3;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -3291,6 +3295,8 @@
 	.mediaViewInfo {
 		--web-view-name: index;
 		--web-view-id: index;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -3312,6 +3318,8 @@
 		overflow: hidden;
 		--web-view-name: index;
 		--web-view-id: index;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -7806,6 +7814,8 @@
 	.mediaViewInfo {
 		--web-view-name: index_1;
 		--web-view-id: index_1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -7827,6 +7837,8 @@
 		overflow: hidden;
 		--web-view-name: index_1;
 		--web-view-id: index_1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -12321,6 +12333,8 @@
 	.mediaViewInfo {
 		--web-view-name: index_2;
 		--web-view-id: index_2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
@@ -12342,6 +12356,8 @@
 		overflow: hidden;
 		--web-view-name: index_2;
 		--web-view-id: index_2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
 		--web-refresh-for-changes: true;
