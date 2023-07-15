@@ -3120,7 +3120,7 @@
 		left: 54px;
 		top: 2132px;
 		position: absolute;
-		overflow: auto;
+		overflow: visible;
 		width: 307px;
 		height: 169px;
 		text-align: left;
