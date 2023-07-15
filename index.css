@@ -14060,7 +14060,7 @@
 	}
 	#Tab_Item_a {
 		position: absolute;
-		width: 47px;
+		width: 42px;
 		height: 42px;
 		left: 181px;
 		top: 133px;
@@ -14128,21 +14128,21 @@
 	}
 	#Label_bac {
 		left: 0px;
-		top: 10px;
+		top: 12px;
 		position: absolute;
 		overflow: visible;
-		width: 48px;
+		width: 42px;
 		white-space: nowrap;
 		text-align: left;
 		font-family: Noto Sans;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 16px;
+		font-size: 14px;
 		color: rgba(139,139,139,1);
 	}
 	#Tab_Item_i {
 		position: absolute;
-		width: 64px;
+		width: 56px;
 		height: 42px;
 		left: 109px;
 		top: 133px;
@@ -14210,21 +14210,21 @@
 	}
 	#Label_bad {
 		left: 0px;
-		top: 10px;
+		top: 12px;
 		position: absolute;
 		overflow: visible;
-		width: 65px;
+		width: 57px;
 		white-space: nowrap;
 		text-align: left;
 		font-family: Noto Sans;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 16px;
+		font-size: 14px;
 		color: rgba(139,139,139,1);
 	}
 	#Tab_Item_s {
 		position: absolute;
-		width: 47px;
+		width: 42px;
 		height: 42px;
 		left: 54px;
 		top: 133px;
@@ -14291,21 +14291,21 @@
 	}
 	#C00 {
 		left: 0px;
-		top: 10px;
+		top: 12px;
 		position: absolute;
 		overflow: visible;
-		width: 48px;
+		width: 42px;
 		white-space: nowrap;
 		text-align: left;
 		font-family: Noto Sans;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 16px;
+		font-size: 14px;
 		color: rgba(61,61,61,1);
 	}
 	#Tab_Item_v {
 		position: absolute;
-		width: 85px;
+		width: 74px;
 		height: 42px;
 		left: 236px;
 		top: 133px;
@@ -14373,16 +14373,16 @@
 	}
 	#Label_bae {
 		left: 0px;
-		top: 10px;
+		top: 12px;
 		position: absolute;
 		overflow: visible;
-		width: 86px;
+		width: 75px;
 		white-space: nowrap;
 		text-align: left;
 		font-family: Noto Sans;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 16px;
+		font-size: 14px;
 		color: rgba(139,139,139,1);
 	}
 	#dogs_bg_crop_transparent_ {
@@ -14795,8 +14795,8 @@
 		top: 742px;
 		position: absolute;
 		overflow: hidden;
-		width: 323px;
-		height: 269px;
+		width: 324px;
+		height: 267px;
 		text-align: left;
 		font-family: Arial;
 		font-style: italic;
@@ -14806,7 +14806,7 @@
 	}
 	#Scroll_Down_PLATFORMMOBILETAGH_ {
 		left: 95px;
-		top: 1027px;
+		top: 1018px;
 		position: absolute;
 		overflow: visible;
 		width: 84px;
@@ -14823,7 +14823,7 @@
 		width: 20px;
 		height: 20px;
 		left: 66px;
-		top: 1025px;
+		top: 1016px;
 		overflow: visible;
 	}
 	#METADATA_bdb {
@@ -14892,7 +14892,7 @@
 		position: absolute;
 		overflow: hidden;
 		width: 266px;
-		height: 205px;
+		height: 24px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -15457,12 +15457,12 @@
 		color: rgba(61,61,61,1);
 	}
 	#Typography_PLATFORMMOBILE_bbs {
-		left: 19px;
+		left: 27.5px;
 		top: 3174px;
 		position: absolute;
 		overflow: hidden;
-		width: 108px;
-		height: 21px;
+		width: 100px;
+		height: 17px;
 		text-align: center;
 		font-family: Arial;
 		font-style: normal;
@@ -15691,8 +15691,8 @@
 		top: 3217px;
 		position: absolute;
 		overflow: hidden;
-		width: 93px;
-		height: 17px;
+		width: 87px;
+		white-space: nowrap;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -15705,8 +15705,8 @@
 		top: 3250px;
 		position: absolute;
 		overflow: hidden;
-		width: 163px;
-		height: 20px;
+		width: 162px;
+		white-space: nowrap;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -15719,8 +15719,8 @@
 		top: 3286px;
 		position: absolute;
 		overflow: hidden;
-		width: 285px;
-		height: 19px;
+		width: 263px;
+		white-space: nowrap;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -15729,12 +15729,12 @@
 		color: rgba(61,61,61,1);
 	}
 	#Typography_PLATFORMMOBILE_bcg {
-		left: 55px;
+		left: 60.5px;
 		top: 3321px;
 		position: absolute;
 		overflow: hidden;
-		width: 296px;
-		height: 18px;
+		width: 285px;
+		white-space: nowrap;
 		text-align: center;
 		font-family: Arial;
 		font-style: normal;
@@ -16081,7 +16081,7 @@
 		width: 72px;
 		height: 18px;
 		left: 231px;
-		top: 1024px;
+		top: 1015px;
 		overflow: visible;
 	}
 	#METADATA_bdt {
@@ -16702,7 +16702,7 @@
 		position: absolute;
 		overflow: visible;
 		width: 312px;
-		height: 154px;
+		height: 121px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
@@ -16716,7 +16716,7 @@
 		position: absolute;
 		overflow: visible;
 		width: 275px;
-		height: 136px;
+		height: 128px;
 		text-align: left;
 		font-family: Arial;
 		font-style: normal;
